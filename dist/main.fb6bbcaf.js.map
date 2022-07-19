@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/main.js"],"names":["console","log"],"mappings":"AAAAA,OAAO,CAACC,GAAR,CAAY,eAAZ","file":"main.fb6bbcaf.js","sourceRoot":"..","sourcesContent":["console.log(\"Hello Parcel!\");\n"]}
